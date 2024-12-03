@@ -1,0 +1,3 @@
+mkdir opencv-image-processing
+cd opencv-image-processing
+git init
